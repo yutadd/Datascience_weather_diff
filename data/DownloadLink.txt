@@ -1,0 +1,2 @@
+https://www.data.jma.go.jp/risk/obsdl/index.php
+https://www.kaggle.com/datasets/ananthr1/weather-prediction/data
